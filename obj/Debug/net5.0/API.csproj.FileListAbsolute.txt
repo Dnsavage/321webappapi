@@ -108,3 +108,14 @@ C:\Users\Plati\Desktop\Spring2022\MIS321\repos\webapp\API\bin\Debug\net5.0\runti
 C:\Users\Plati\Desktop\Spring2022\MIS321\repos\webapp\API\bin\Debug\net5.0\runtimes\osx-x64\native\SQLite.Interop.dll
 C:\Users\Plati\Desktop\Spring2022\MIS321\repos\webapp\API\bin\Debug\net5.0\runtimes\win-x64\native\SQLite.Interop.dll
 C:\Users\Plati\Desktop\Spring2022\MIS321\repos\webapp\API\bin\Debug\net5.0\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\Plati\Desktop\Spring2022\MIS321\repos\webapp\api\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+C:\Users\Plati\Desktop\Spring2022\MIS321\repos\webapp\api\bin\Debug\net5.0\Google.Protobuf.dll
+C:\Users\Plati\Desktop\Spring2022\MIS321\repos\webapp\api\bin\Debug\net5.0\K4os.Compression.LZ4.dll
+C:\Users\Plati\Desktop\Spring2022\MIS321\repos\webapp\api\bin\Debug\net5.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\Plati\Desktop\Spring2022\MIS321\repos\webapp\api\bin\Debug\net5.0\K4os.Hash.xxHash.dll
+C:\Users\Plati\Desktop\Spring2022\MIS321\repos\webapp\api\bin\Debug\net5.0\MySql.Data.dll
+C:\Users\Plati\Desktop\Spring2022\MIS321\repos\webapp\api\bin\Debug\net5.0\Ubiety.Dns.Core.dll
+C:\Users\Plati\Desktop\Spring2022\MIS321\repos\webapp\api\bin\Debug\net5.0\ZstdNet.dll
+C:\Users\Plati\Desktop\Spring2022\MIS321\repos\webapp\api\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Plati\Desktop\Spring2022\MIS321\repos\webapp\api\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Plati\Desktop\Spring2022\MIS321\repos\webapp\api\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
